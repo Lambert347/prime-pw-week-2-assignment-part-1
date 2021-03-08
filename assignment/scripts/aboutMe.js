@@ -57,10 +57,6 @@ if ((luckyNumber == 2) && (adventurous == true))
 {
   console.log ( 'Roll the dice!' );
 }
-else
-{
-  console.log ( "You're not cool enough to roll the dice :(." );
-}
 
 // 15 - Write a conditional that console logs "I can have more pets!"
 //if the value of `pets` is less than the value of `allowedPets`,
